@@ -29,4 +29,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 
 [MIT](https://github.com/OsmanSoft/kodluyoruzilkrepo/blob/main/LICENSE)
 
+![Proje resmi](https://user-images.githubusercontent.com/98581733/161298210-31fc2863-f6da-45f7-a1b7-5f14f069f1f4.PNG)
 
